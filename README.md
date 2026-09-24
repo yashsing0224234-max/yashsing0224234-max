@@ -6,7 +6,7 @@
 
 i turn ideas into working projects, then keep improving them.
 
-[![portfolio](https://img.shields.io/badge/portfolio-explore-111827?style=for-the-badge&logo=github)](https://github.com/yashsing0224234-max/portfolio)
+[![civicai](https://img.shields.io/badge/bhilai_civicai-live-111827?style=for-the-badge)](https://bhilai-civicai.onrender.com)
 [![github](https://img.shields.io/badge/github-yashsing0224234--max-181717?style=for-the-badge&logo=github)](https://github.com/yashsing0224234-max)
 
 </div>
